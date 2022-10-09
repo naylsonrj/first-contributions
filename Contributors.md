@@ -2977,5 +2977,5 @@ harsh vijay (https://github.com/harshvijay63)
 - [Kartik Batra](https://github.com/devilsboss-dev)
 
 <!-- prettier-ignore-end -->
-
+-[Naylson Costa](https://github.com/naylsonrj)
 -[Shivangi Tiwari](https://github.com/Shivangi708)
